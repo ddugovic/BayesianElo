@@ -2,7 +2,7 @@ bayeselo
 by Rémi Coulom
 http://remi.coulom.free.fr/Bayesian-Elo/
 
-To compile, `cd` into the BayesElo directory and `make`.
+To compile under Linux, `cd src/ && make`.
 
 This software is protected under the terms of the GNU GPL.
 See `Copying.txt` or http://www.gnu.org/copyleft/gpl.html .
